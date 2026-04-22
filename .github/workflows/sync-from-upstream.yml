@@ -1,0 +1,23 @@
+name: Sincronizar com o Original
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # Corre de 6 em 6 horas
+  workflow_dispatch:      # Permite-te correr o botão à mão quando quiseres
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Precisas disto para o bot poder gravar no teu repo
+
+    steps:
+      - name: Checkout do teu fork
+        uses: actions/checkout@v4
+
+      - name: Sincronizar com doms9/iptv
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # O comando mágico que faz o sync oficial do GitHub
+          gh repo sync TiagoCastelo/iptvcasa -b default
