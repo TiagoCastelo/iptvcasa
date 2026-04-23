@@ -54,12 +54,9 @@ async def process_event(
             return
 
         try:
-            if btn := page.locator("button.streambutton").first:
-                await btn.click(
-                    force=True,
-                    click_count=2,
-                    timeout=3_000,
-                )
+            btn = page.locator("button.streambutton").first
+
+            await btn.dblclick(force=True, timeout=3_000)
 
             await page.wait_for_function(
                 "() => typeof clapprPlayer !== 'undefined'",
