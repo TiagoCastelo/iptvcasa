@@ -1,6 +1,6 @@
-## Base Log @ 2026-04-30 16:00 UTC
+## Base Log @ 2026-04-30 21:33 UTC
 
-### ✅ Working Streams: 77<br>❌ Dead Streams: 84
+### ✅ Working Streams: 76<br>❌ Dead Streams: 85
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -58,6 +58,7 @@
 | NBC Sports California | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/16116.ts` |
 | NBC Sports Philadelphia | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/35472.ts` |
 | NBC | HTTP Error (404) | `http://stream.cammonitorplus.net/1804/index.m3u8` |
+| NESN | HTTP Error (404) | `http://23.237.104.106:8080/USA_NESN/index.m3u8` |
 | NFL RedZone | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/2369.ts` |
 | NHL Network | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/2348.ts` |
 | National Geographic | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/749.ts` |
