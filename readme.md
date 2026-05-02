@@ -1,6 +1,6 @@
-## Base Log @ 2026-05-01 21:13 UTC
+## Base Log @ 2026-05-02 05:22 UTC
 
-### ✅ Working Streams: 71<br>❌ Dead Streams: 90
+### ✅ Working Streams: 70<br>❌ Dead Streams: 91
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -81,6 +81,7 @@
 | Spectrum SportsNet Lakers | HTTP Error (444) | `http://mytvstream.net:8080/live/56481106/11185695/21842.m3u8` |
 | SportsNet New York | HTTP Error (403) | `http://212.102.60.231/SNY/index.m3u8` |
 | SportsNet Pittsburgh | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/59945.ts` |
+| Sportsman Channel | HTTP Error (403) | `http://212.102.60.231/SPORTSMAN_CHANNEL/index.m3u8` |
 | Sportsnet 360 | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/3377.ts` |
 | Sportsnet East | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/1720.ts` |
 | Sportsnet One | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/3378.ts` |
