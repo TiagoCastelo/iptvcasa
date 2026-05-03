@@ -1,20 +1,20 @@
-## Base Log @ 2026-05-03 05:43 UTC
+## Base Log @ 2026-05-03 09:47 UTC
 
-### ✅ Working Streams: 73<br>❌ Dead Streams: 88
+### ✅ Working Streams: 75<br>❌ Dead Streams: 86
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
 | Altitude Sports | HTTP Error (444) | `http://mytvstream.net:8080/live/56481106/11185695/79545.m3u8` |
 | Antenna TV | HTTP Error (444) | `http://mytvstream.net:8080/live/56481106/11185695/20180.m3u8` |
-| Aspire | HTTP Timeout (408) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/150605.ts` |
+| Aspire | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/150605.ts` |
 | BET | HTTP Error (404) | `http://212.102.60.231/BET/index.m3u8` |
 | Bounce TV | HTTP Error (403) | `http://212.102.60.231/BOUNCE_TV/index.m3u8` |
-| C-SPAN | HTTP Timeout (408) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/14804.ts` |
-| CBS Sports Network | HTTP Timeout (408) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/267357.ts` |
-| CNBC | HTTP Timeout (408) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/2295.ts` |
-| CW | HTTP Timeout (408) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/171820.ts` |
-| Comedy TV | HTTP Timeout (408) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/199482.ts` |
-| Cozi TV | HTTP Timeout (408) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/8392.ts` |
+| C-SPAN | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/14804.ts` |
+| CBS Sports Network | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/267357.ts` |
+| CNBC | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/2295.ts` |
+| CW | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/171820.ts` |
+| Comedy TV | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/199482.ts` |
+| Cozi TV | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/8392.ts` |
 | Discovery Family Channel | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/2300.ts` |
 | Discovery Life | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/201208.ts` |
 | Discovery Science | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/2301.ts` |
@@ -43,17 +43,15 @@
 | Game Show Network | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/466.ts` |
 | Golf Channel | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/5845.ts` |
 | Grit TV | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/15086.ts` |
-| HBO Family | HTTP Timeout (408) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/760.ts` |
-| Hallmark Family | HTTP Timeout (408) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/304609.ts` |
-| Hallmark Mystery | HTTP Timeout (408) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/3388.ts` |
-| History Channel | HTTP Timeout (408) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/761.ts` |
-| INSP | HTTP Timeout (408) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/30900.ts` |
-| ION TV | HTTP Timeout (408) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/147661.ts` |
-| Investigation Discovery | HTTP Timeout (408) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/8557.ts` |
-| Lifetime | HTTP Timeout (408) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/4667.ts` |
-| MLB Network | HTTP Timeout (408) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/2342.ts` |
+| Hallmark Family | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/304609.ts` |
+| Hallmark Mystery | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/3388.ts` |
+| History Channel | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/761.ts` |
+| INSP | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/30900.ts` |
+| ION TV | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/147661.ts` |
+| Lifetime | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/4667.ts` |
+| MLB Network | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/2342.ts` |
 | MSNBC | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/406.ts` |
-| Marquee Sports Network | HTTP Timeout (408) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/150609.ts` |
+| Marquee Sports Network | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/150609.ts` |
 | MotorTrend TV | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/272264.ts` |
 | NBA TV | HTTP Error (403) | `http://212.102.60.231/NBA_TV/index.m3u8` |
 | NBC Sports Bay Area | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/45785.ts` |
