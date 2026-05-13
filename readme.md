@@ -1,6 +1,6 @@
-## Base Log @ 2026-05-13 16:40 UTC
+## Base Log @ 2026-05-13 21:52 UTC
 
-### ✅ Working Streams: 68<br>❌ Dead Streams: 93
+### ✅ Working Streams: 69<br>❌ Dead Streams: 92
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -11,7 +11,6 @@
 | Bounce TV | HTTP Error (403) | `http://212.102.60.231/BOUNCE_TV/index.m3u8` |
 | C-SPAN | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/14804.ts` |
 | CBS Sports Network | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/267357.ts` |
-| CBS | HTTP Error (404) | `http://stream.cammonitorplus.net/1810/index.m3u8` |
 | CNBC | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/2295.ts` |
 | CW | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/171820.ts` |
 | Comedy TV | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/199482.ts` |
