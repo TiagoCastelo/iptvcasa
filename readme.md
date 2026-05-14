@@ -1,6 +1,6 @@
-## Base Log @ 2026-05-13 21:52 UTC
+## Base Log @ 2026-05-14 06:02 UTC
 
-### ✅ Working Streams: 69<br>❌ Dead Streams: 92
+### ✅ Working Streams: 68<br>❌ Dead Streams: 93
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -43,6 +43,7 @@
 | Game Show Network | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/466.ts` |
 | Golf Channel | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/5845.ts` |
 | Grit TV | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/15086.ts` |
+| HBO Comedy | HTTP Error (404) | `http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8` |
 | HBO Family | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/760.ts` |
 | Hallmark Family | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/304609.ts` |
 | Hallmark Mystery | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/3388.ts` |
