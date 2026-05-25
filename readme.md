@@ -1,6 +1,6 @@
-## Base Log @ 2026-05-25 12:04 UTC
+## Base Log @ 2026-05-25 16:39 UTC
 
-### ✅ Working Streams: 67<br>❌ Dead Streams: 94
+### ✅ Working Streams: 68<br>❌ Dead Streams: 93
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -37,7 +37,6 @@
 | FDSN Wisconsin | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/295668.ts` |
 | FX Movie Channel | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/39873.ts` |
 | FYI TV | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/9234.ts` |
-| Fox News | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/1611.ts` |
 | Fox Sports 1 | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/756.ts` |
 | Fox Sports 2 | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/757.ts` |
 | Freeform TV | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/2329.ts` |
