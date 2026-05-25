@@ -1,6 +1,6 @@
-## Base Log @ 2026-05-24 21:29 UTC
+## Base Log @ 2026-05-25 06:52 UTC
 
-### ✅ Working Streams: 65<br>❌ Dead Streams: 96
+### ✅ Working Streams: 67<br>❌ Dead Streams: 94
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -8,10 +8,9 @@
 | Antenna TV | HTTP Error (444) | `http://mytvstream.net:8080/live/56481106/11185695/20180.m3u8` |
 | Aspire | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/150605.ts` |
 | BET | HTTP Error (404) | `http://212.102.60.231/BET/index.m3u8` |
-| Big Ten Network | HTTP Timeout (408) | `http://23.237.104.106:8080/USA_BTN/index.m3u8` |
-| Boomerang | HTTP Error (404) | `http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8` |
 | Bounce TV | HTTP Error (403) | `http://212.102.60.231/BOUNCE_TV/index.m3u8` |
 | C-SPAN | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/14804.ts` |
+| CBS Sports Network | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/267357.ts` |
 | CNBC | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/2295.ts` |
 | CW | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/171820.ts` |
 | Cleo TV | HTTP Error (401) | `http://hardcoremedia.xyz/live/rabdsbmz/3731346838/129849.ts` |
@@ -20,7 +19,6 @@
 | Discovery Family Channel | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/2300.ts` |
 | Discovery Life | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/201208.ts` |
 | Discovery Science | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/2301.ts` |
-| Disney XD | HTTP Error (404) | `http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8` |
 | Disney | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/2303.ts` |
 | ESPN News | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/2312.ts` |
 | ESPN2 | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/41918.ts` |
