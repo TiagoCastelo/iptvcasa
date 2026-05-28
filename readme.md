@@ -1,6 +1,6 @@
-## Base Log @ 2026-05-27 22:17 UTC
+## Base Log @ 2026-05-28 06:37 UTC
 
-### ✅ Working Streams: 67<br>❌ Dead Streams: 94
+### ✅ Working Streams: 66<br>❌ Dead Streams: 95
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -41,7 +41,6 @@
 | Fox News | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/1611.ts` |
 | Fox Sports 1 | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/756.ts` |
 | Fox Sports 2 | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/757.ts` |
-| Fox | HTTP Error (404) | `http://stream.cammonitorplus.net/1772/index.m3u8` |
 | Freeform TV | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/2329.ts` |
 | Game Show Network | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/466.ts` |
 | Golf Channel | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/5845.ts` |
@@ -52,6 +51,7 @@
 | History Channel | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/761.ts` |
 | INSP | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/30900.ts` |
 | ION TV | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/147661.ts` |
+| Investigation Discovery | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/8557.ts` |
 | Lifetime | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/4667.ts` |
 | MLB Network | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/2342.ts` |
 | MSNBC | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/406.ts` |
@@ -71,6 +71,7 @@
 | Nick Jr | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/14835.ts` |
 | Nicktoons | HTTP Error (403) | `http://212.102.60.231/NICKTOONS/index.m3u8` |
 | Ovation | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/194336.ts` |
+| Oxygen | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/6378.ts` |
 | Pop TV | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/305494.ts` |
 | Premier Sports 1 | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/1097.ts` |
 | Premier Sports 2 | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/4723.ts` |
