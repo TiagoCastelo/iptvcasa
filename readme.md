@@ -1,6 +1,6 @@
-## Base Log @ 2026-06-11 07:14 UTC
+## Base Log @ 2026-06-11 12:27 UTC
 
-### ✅ Working Streams: 65<br>❌ Dead Streams: 96
+### ✅ Working Streams: 64<br>❌ Dead Streams: 97
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -47,6 +47,7 @@
 | Golf Channel | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/5845.ts` |
 | Grit TV | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/15086.ts` |
 | HBO Family | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/760.ts` |
+| HLN TV | HTTP Error (404) | `http://23.237.104.106:8080/USA_HLN/index.m3u8` |
 | Hallmark Family | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/304609.ts` |
 | Hallmark Mystery | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/3388.ts` |
 | History Channel | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/761.ts` |
@@ -55,20 +56,20 @@
 | Investigation Discovery | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/8557.ts` |
 | Lifetime | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/4667.ts` |
 | MLB Network | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/2342.ts` |
-| MSNBC | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/406.ts` |
+| MSNBC | HTTP Timeout (408) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/406.ts` |
 | Marquee Sports Network | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/150609.ts` |
-| MotorTrend TV | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/272264.ts` |
+| MotorTrend TV | HTTP Timeout (408) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/272264.ts` |
 | NBA TV | HTTP Error (403) | `http://212.102.60.231/NBA_TV/index.m3u8` |
-| NBC Sports Bay Area | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/45785.ts` |
-| NBC Sports Boston | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/35132.ts` |
-| NBC Sports California | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/16116.ts` |
-| NBC Sports Philadelphia | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/35472.ts` |
+| NBC Sports Bay Area | HTTP Timeout (408) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/45785.ts` |
+| NBC Sports Boston | HTTP Timeout (408) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/35132.ts` |
+| NBC Sports California | HTTP Timeout (408) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/16116.ts` |
+| NBC Sports Philadelphia | HTTP Timeout (408) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/35472.ts` |
 | NBC | HTTP Error (404) | `http://stream.cammonitorplus.net/1804/index.m3u8` |
 | NESN | HTTP Error (404) | `http://23.237.104.106:8080/USA_NESN/index.m3u8` |
 | NFL RedZone | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/2369.ts` |
 | NHL Network | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/2348.ts` |
-| National Geographic | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/749.ts` |
-| NewsNation | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/6296.ts` |
+| National Geographic | HTTP Timeout (408) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/749.ts` |
+| NewsNation | HTTP Timeout (408) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/6296.ts` |
 | Nick Jr | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/14835.ts` |
 | Nicktoons | HTTP Error (403) | `http://212.102.60.231/NICKTOONS/index.m3u8` |
 | Ovation | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/194336.ts` |
