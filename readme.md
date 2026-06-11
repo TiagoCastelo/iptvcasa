@@ -1,6 +1,6 @@
-## Base Log @ 2026-06-10 22:27 UTC
+## Base Log @ 2026-06-11 07:14 UTC
 
-### ✅ Working Streams: 64<br>❌ Dead Streams: 97
+### ✅ Working Streams: 65<br>❌ Dead Streams: 96
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -42,7 +42,6 @@
 | Fox News | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/1611.ts` |
 | Fox Sports 1 | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/756.ts` |
 | Fox Sports 2 | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/757.ts` |
-| Fox | HTTP Error (404) | `http://stream.cammonitorplus.net/1772/index.m3u8` |
 | Freeform TV | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/2329.ts` |
 | Game Show Network | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/466.ts` |
 | Golf Channel | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/5845.ts` |
