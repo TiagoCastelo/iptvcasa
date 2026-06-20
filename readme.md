@@ -1,4 +1,4 @@
-## Base Log @ 2026-06-20 15:59 UTC
+## Base Log @ 2026-06-20 21:47 UTC
 
 ### ✅ Working Streams: 65<br>❌ Dead Streams: 96
 
@@ -36,7 +36,7 @@
 | FDSN Southwest | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/296685.ts` |
 | FDSN Sun | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/2325.ts` |
 | FDSN West | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/3367.ts` |
-| FDSN Wisconsin | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/295668.ts` |
+| FDSN Wisconsin | HTTP Timeout (408) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/295668.ts` |
 | FX Movie Channel | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/39873.ts` |
 | FYI TV | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/9234.ts` |
 | Fox News | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/1611.ts` |
