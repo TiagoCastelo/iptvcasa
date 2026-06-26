@@ -1,6 +1,6 @@
-## Base Log @ 2026-06-26 16:33 UTC
+## Base Log @ 2026-06-26 21:48 UTC
 
-### ✅ Working Streams: 74<br>❌ Dead Streams: 87
+### ✅ Working Streams: 72<br>❌ Dead Streams: 89
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -83,6 +83,7 @@
 | SportsNet Pittsburgh | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/59945.ts` |
 | Sportsman Channel | HTTP Error (403) | `http://212.102.60.231/SPORTSMAN_CHANNEL/index.m3u8` |
 | Sportsnet 360 | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/3377.ts` |
+| Sportsnet East | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/1720.ts` |
 | Sportsnet One | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/3378.ts` |
 | Starz Encore Classic | HTTP Error (403) | `http://212.102.60.231/STARZ_ENCORE_CLASSIC/index.m3u8` |
 | TLC | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/2362.ts` |
@@ -90,6 +91,7 @@
 | TV Land | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/2364.ts` |
 | TV One | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/13010.ts` |
 | The Weather Channel | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/2361.ts` |
+| USA East | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/3390.ts` |
 | getTV | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/194187.ts` |
 ---
 #### Base Channels URL
