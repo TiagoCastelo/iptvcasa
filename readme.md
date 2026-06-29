@@ -1,6 +1,6 @@
-## Base Log @ 2026-06-29 12:47 UTC
+## Base Log @ 2026-06-29 17:18 UTC
 
-### ✅ Working Streams: 64<br>❌ Dead Streams: 97
+### ✅ Working Streams: 65<br>❌ Dead Streams: 96
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -23,7 +23,6 @@
 | Discovery Science | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/2301.ts` |
 | Disney | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/2303.ts` |
 | ESPN News | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/2312.ts` |
-| ESPN | HTTP Error (404) | `http://41.205.93.154/ESPN/index.m3u8` |
 | ESPN2 | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/41918.ts` |
 | FDSN Detroit | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/6463.ts` |
 | FDSN Florida | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/296662.ts` |
