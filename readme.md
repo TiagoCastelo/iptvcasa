@@ -1,16 +1,16 @@
-## Base Log @ 2026-07-01 16:45 UTC
+## Base Log @ 2026-07-01 22:00 UTC
 
-### ✅ Working Streams: 64<br>❌ Dead Streams: 97
+### ✅ Working Streams: 65<br>❌ Dead Streams: 96
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
-| Altitude Sports | HTTP Timeout (408) | `http://mytvstream.net:8080/live/56481106/11185695/79545.m3u8` |
-| Antenna TV | HTTP Timeout (408) | `http://mytvstream.net:8080/live/56481106/11185695/20180.m3u8` |
+| Altitude Sports | HTTP Error (444) | `http://mytvstream.net:8080/live/56481106/11185695/79545.m3u8` |
+| Antenna TV | HTTP Error (444) | `http://mytvstream.net:8080/live/56481106/11185695/20180.m3u8` |
 | Aspire | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/150605.ts` |
 | BBC America | HTTP Error (403) | `https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8` |
-| BET | HTTP Timeout (408) | `http://212.102.60.231/BET/index.m3u8` |
+| BET | HTTP Error (404) | `http://212.102.60.231/BET/index.m3u8` |
 | Bloomberg TV | HTTP Error (404) | `https://live-manifest.production-public.tubi.io/live/a5aabf5a-9615-4987-8163-18edfa1360c6/playlist.m3u8` |
-| Bounce TV | HTTP Timeout (408) | `http://212.102.60.231/BOUNCE_TV/index.m3u8` |
+| Bounce TV | HTTP Error (403) | `http://212.102.60.231/BOUNCE_TV/index.m3u8` |
 | C-SPAN | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/14804.ts` |
 | CBS Sports Network | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/267357.ts` |
 | CNBC | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/2295.ts` |
@@ -27,7 +27,7 @@
 | FDSN Detroit | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/6463.ts` |
 | FDSN Florida | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/296662.ts` |
 | FDSN Midwest | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/58557.ts` |
-| FDSN North | HTTP Timeout (408) | `http://mytvstream.net:8080/live/56481106/11185695/20928.m3u8` |
+| FDSN North | HTTP Error (444) | `http://mytvstream.net:8080/live/56481106/11185695/20928.m3u8` |
 | FDSN Ohio | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/296675.ts` |
 | FDSN Oklahoma | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/6452.ts` |
 | FDSN SoCal | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/296681.ts` |
@@ -39,7 +39,6 @@
 | FDSN Wisconsin | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/295668.ts` |
 | FX Movie Channel | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/39873.ts` |
 | FYI TV | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/9234.ts` |
-| Fox Business | HTTP Error (404) | `http://41.205.93.154/FOXBUSINESS/index.m3u8` |
 | Fox News | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/1611.ts` |
 | Fox Sports 1 | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/756.ts` |
 | Fox Sports 2 | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/757.ts` |
@@ -59,7 +58,7 @@
 | MSNBC | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/406.ts` |
 | Marquee Sports Network | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/150609.ts` |
 | MotorTrend TV | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/272264.ts` |
-| NBA TV | HTTP Timeout (408) | `http://212.102.60.231/NBA_TV/index.m3u8` |
+| NBA TV | HTTP Error (403) | `http://212.102.60.231/NBA_TV/index.m3u8` |
 | NBC Sports Bay Area | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/45785.ts` |
 | NBC Sports Boston | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/35132.ts` |
 | NBC Sports California | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/16116.ts` |
@@ -71,27 +70,27 @@
 | National Geographic | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/749.ts` |
 | NewsNation | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/6296.ts` |
 | Nick Jr | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/14835.ts` |
-| Nicktoons | HTTP Timeout (408) | `http://212.102.60.231/NICKTOONS/index.m3u8` |
+| Nicktoons | HTTP Error (403) | `http://212.102.60.231/NICKTOONS/index.m3u8` |
 | Ovation | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/194336.ts` |
 | Oxygen | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/6378.ts` |
 | Pop TV | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/305494.ts` |
 | Premier Sports 1 | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/1097.ts` |
 | Premier Sports 2 | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/4723.ts` |
-| QVC | HTTP Timeout (408) | `http://212.102.60.231/QVC/index.m3u8` |
+| QVC | HTTP Error (403) | `http://212.102.60.231/QVC/index.m3u8` |
 | Showtime Extreme | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/12036.ts` |
 | Sky Sports News | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/304775.ts` |
 | Smithsonian Channel | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/8585.ts` |
 | Sony Movie Channel | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/5831.ts` |
-| Space City Home Network | HTTP Timeout (408) | `http://mytvstream.net:8080/live/56481106/11185695/213668.m3u8` |
-| Spectrum SportsNet LA Dodgers | HTTP Timeout (408) | `http://mytvstream.net:8080/live/56481106/11185695/31636.m3u8` |
-| Spectrum SportsNet Lakers | HTTP Timeout (408) | `http://mytvstream.net:8080/live/56481106/11185695/21842.m3u8` |
-| SportsNet New York | HTTP Timeout (408) | `http://212.102.60.231/SNY/index.m3u8` |
+| Space City Home Network | HTTP Error (444) | `http://mytvstream.net:8080/live/56481106/11185695/213668.m3u8` |
+| Spectrum SportsNet LA Dodgers | HTTP Error (444) | `http://mytvstream.net:8080/live/56481106/11185695/31636.m3u8` |
+| Spectrum SportsNet Lakers | HTTP Error (444) | `http://mytvstream.net:8080/live/56481106/11185695/21842.m3u8` |
+| SportsNet New York | HTTP Error (403) | `http://212.102.60.231/SNY/index.m3u8` |
 | SportsNet Pittsburgh | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/59945.ts` |
-| Sportsman Channel | HTTP Timeout (408) | `http://212.102.60.231/SPORTSMAN_CHANNEL/index.m3u8` |
+| Sportsman Channel | HTTP Error (403) | `http://212.102.60.231/SPORTSMAN_CHANNEL/index.m3u8` |
 | Sportsnet 360 | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/3377.ts` |
 | Sportsnet East | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/1720.ts` |
 | Sportsnet One | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/3378.ts` |
-| Starz Encore Classic | HTTP Timeout (408) | `http://212.102.60.231/STARZ_ENCORE_CLASSIC/index.m3u8` |
+| Starz Encore Classic | HTTP Error (403) | `http://212.102.60.231/STARZ_ENCORE_CLASSIC/index.m3u8` |
 | TLC | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/2362.ts` |
 | TSN1 | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/770.ts` |
 | TSN2 | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/771.ts` |
