@@ -1,6 +1,6 @@
-## Base Log @ 2026-07-06 21:54 UTC
+## Base Log @ 2026-07-07 06:29 UTC
 
-### ✅ Working Streams: 70<br>❌ Dead Streams: 91
+### ✅ Working Streams: 66<br>❌ Dead Streams: 95
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -45,7 +45,10 @@
 | Game Show Network | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/466.ts` |
 | Golf Channel | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/5845.ts` |
 | Grit TV | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/15086.ts` |
+| HBO 2 | HTTP Error (404) | `http://23.237.104.106:8080/USA_HBO2/index.m3u8` |
+| HBO Comedy | HTTP Error (404) | `http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8` |
 | HBO Family | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/760.ts` |
+| HBO | HTTP Error (404) | `http://23.237.104.106:8080/USA_HBO/index.m3u8` |
 | Hallmark Family | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/304609.ts` |
 | Hallmark Mystery | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/3388.ts` |
 | History Channel | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/761.ts` |
@@ -75,6 +78,7 @@
 | Premier Sports 2 | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/4723.ts` |
 | QVC | HTTP Error (403) | `http://212.102.60.231/QVC/index.m3u8` |
 | Showtime Extreme | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/12036.ts` |
+| Showtime | HTTP Error (404) | `http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8` |
 | Sky Sports News | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/304775.ts` |
 | Smithsonian Channel | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/8585.ts` |
 | Sony Movie Channel | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/5831.ts` |
