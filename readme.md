@@ -1,9 +1,10 @@
-## Base Log @ 2026-07-15 16:01 UTC
+## Base Log @ 2026-07-15 21:30 UTC
 
-### ✅ Working Streams: 23<br>❌ Dead Streams: 138
+### ✅ Working Streams: 22<br>❌ Dead Streams: 139
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
+| ABC | HTTP Error (404) | `http://stream.cammonitorplus.net/1758/index.m3u8` |
 | ACC Network | HTTP Timeout (408) | `http://23.237.104.106:8080/USA_ACCN/mpegts` |
 | Altitude Sports | HTTP Error (444) | `http://mytvstream.net:8080/live/56481106/11185695/79545.m3u8` |
 | Animal Planet | HTTP Timeout (408) | `http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8` |
