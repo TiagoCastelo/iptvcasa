@@ -1,6 +1,6 @@
-## Base Log @ 2026-08-12 04:21 UTC
+## Base Log @ 2026-08-12 09:40 UTC
 
-### ✅ Working Streams: 59<br>❌ Dead Streams: 102
+### ✅ Working Streams: 58<br>❌ Dead Streams: 103
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -18,6 +18,7 @@
 | CW | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/171820.ts` |
 | Cleo TV | HTTP Error (401) | `http://hardcoremedia.xyz/live/rabdsbmz/3731346838/129849.ts` |
 | Comedy TV | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/199482.ts` |
+| Cooking Channel | HTTP Error (404) | `http://23.237.104.106:8080/USA_COOKING/index.m3u8` |
 | Cozi TV | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/8392.ts` |
 | Discovery Family Channel | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/2300.ts` |
 | Discovery Life | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/201208.ts` |
