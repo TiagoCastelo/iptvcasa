@@ -1,6 +1,6 @@
-## Base Log @ 2026-09-18 17:46 UTC
+## Base Log @ 2026-09-18 22:44 UTC
 
-### ✅ Working Streams: 42<br>❌ Dead Streams: 119
+### ✅ Working Streams: 45<br>❌ Dead Streams: 116
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -61,7 +61,6 @@
 | HBO Comedy | HTTP Error (404) | `http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8` |
 | HBO Family | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/760.ts` |
 | HBO | HTTP Error (404) | `http://23.237.104.106:8080/USA_HBO/index.m3u8` |
-| HLN TV | HTTP Error (404) | `http://23.237.104.106:8080/USA_HLN/index.m3u8` |
 | Hallmark Channel | HTTP Error (404) | `http://23.237.104.106:8080/USA_HALLMARK/index.m3u8` |
 | Hallmark Family | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/304609.ts` |
 | Hallmark Mystery | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/3388.ts` |
@@ -92,7 +91,6 @@
 | Nicktoons | HTTP Error (403) | `http://212.102.60.231/NICKTOONS/index.m3u8` |
 | Ovation | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/194336.ts` |
 | Oxygen | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/6378.ts` |
-| Paramount Network | HTTP Error (404) | `http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8` |
 | Pop TV | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/305494.ts` |
 | Premier Sports 1 | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/1097.ts` |
 | Premier Sports 2 | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/4723.ts` |
@@ -113,7 +111,6 @@
 | Sportsnet One | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/3378.ts` |
 | Starz Encore Classic | HTTP Error (404) | `http://212.102.60.231/STARZ_ENCORE_CLASSIC/index.m3u8` |
 | Starz | HTTP Error (404) | `http://23.237.104.106:8080/USA_STARZ/index.m3u8` |
-| Syfy | HTTP Error (404) | `http://23.237.104.106:8080/USA_SYFY/index.m3u8` |
 | TLC | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/2362.ts` |
 | TSN1 | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/770.ts` |
 | TSN2 | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/771.ts` |
