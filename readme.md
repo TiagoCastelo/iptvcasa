@@ -1,6 +1,6 @@
-## Base Log @ 2026-09-20 07:52 UTC
+## Base Log @ 2026-09-20 13:10 UTC
 
-### ✅ Working Streams: 44<br>❌ Dead Streams: 117
+### ✅ Working Streams: 45<br>❌ Dead Streams: 116
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -21,7 +21,6 @@
 | Cleo TV | HTTP Error (401) | `http://hardcoremedia.xyz/live/rabdsbmz/3731346838/129849.ts` |
 | Comedy Central | HTTP Error (404) | `http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8` |
 | Comedy TV | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/199482.ts` |
-| Court TV | HTTP Timeout (408) | `https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8` |
 | Cozi TV | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/8392.ts` |
 | Discovery Channel | HTTP Error (404) | `http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8` |
 | Discovery Family Channel | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/2300.ts` |
