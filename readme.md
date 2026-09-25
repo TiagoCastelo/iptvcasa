@@ -1,6 +1,6 @@
-## Base Log @ 2026-09-25 18:48 UTC
+## Base Log @ 2026-09-25 23:24 UTC
 
-### ✅ Working Streams: 47<br>❌ Dead Streams: 114
+### ✅ Working Streams: 45<br>❌ Dead Streams: 116
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -98,6 +98,7 @@
 | Showtime Extreme | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/12036.ts` |
 | Showtime | HTTP Error (404) | `http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8` |
 | Sky Sports News | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/304775.ts` |
+| Smithsonian Channel | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/8585.ts` |
 | Sony Movie Channel | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/5831.ts` |
 | Space City Home Network | HTTP Error (444) | `http://mytvstream.net:8080/live/56481106/11185695/213668.m3u8` |
 | Spectrum SportsNet LA Dodgers | HTTP Error (444) | `http://mytvstream.net:8080/live/56481106/11185695/31636.m3u8` |
@@ -114,6 +115,7 @@
 | TSN1 | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/770.ts` |
 | TSN2 | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/771.ts` |
 | TV Land | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/2364.ts` |
+| TV One | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/13010.ts` |
 | The Weather Channel | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/2361.ts` |
 | USA East | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/3390.ts` |
 | Willow Cricket | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/296763.ts` |
