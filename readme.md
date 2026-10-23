@@ -1,6 +1,6 @@
-## Base Log @ 2026-10-23 13:41 UTC
+## Base Log @ 2026-10-23 18:35 UTC
 
-### ✅ Working Streams: 40<br>❌ Dead Streams: 121
+### ✅ Working Streams: 39<br>❌ Dead Streams: 122
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -83,6 +83,7 @@
 | NBC Sports Bay Area | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/45785.ts` |
 | NBC Sports Boston | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/35132.ts` |
 | NBC Sports California | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/16116.ts` |
+| NBC Sports NOW | HTTP Timeout (408) | `https://jmp2.uk/stvp-USBD420002446` |
 | NBC Sports Philadelphia | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/35472.ts` |
 | NBC | HTTP Timeout (408) | `http://stream.cammonitorplus.net/1804/index.m3u8` |
 | NFL Network | HTTP Error (404) | `http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8` |
