@@ -1,6 +1,6 @@
-## Base Log @ 2026-11-07 00:15 UTC
+## Base Log @ 2026-11-07 09:02 UTC
 
-### ✅ Working Streams: 36<br>❌ Dead Streams: 125
+### ✅ Working Streams: 35<br>❌ Dead Streams: 126
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -15,7 +15,6 @@
 | BET | HTTP Error (404) | `http://212.102.60.231/BET/index.m3u8` |
 | Bloomberg TV | HTTP Error (404) | `https://live-manifest.production-public.tubi.io/live/a5aabf5a-9615-4987-8163-18edfa1360c6/playlist.m3u8` |
 | Bounce TV | HTTP Error (403) | `http://212.102.60.231/BOUNCE_TV/index.m3u8` |
-| Bravo TV | HTTP Error (404) | `http://41.205.93.154/BRAVO/index.m3u8` |
 | C-SPAN | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/14804.ts` |
 | CBS Sports Golazo Network | HTTP Error (404) | `https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8` |
 | CBS Sports Network | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/267357.ts` |
@@ -81,6 +80,7 @@
 | MLB Network | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/2342.ts` |
 | MSG | HTTP Error (404) | `http://23.237.104.106:8080/USA_MSG/index.m3u8` |
 | MSNBC | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/406.ts` |
+| MTV | HTTP Error (404) | `http://23.237.104.106:8080/USA_MTV/index.m3u8` |
 | Marquee Sports Network | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/150609.ts` |
 | MotorTrend TV | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/272264.ts` |
 | NBA TV | HTTP Error (403) | `http://212.102.60.231/NBA_TV/index.m3u8` |
@@ -89,6 +89,7 @@
 | NBC Sports California | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/16116.ts` |
 | NBC Sports Philadelphia | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/35472.ts` |
 | NBC | HTTP Timeout (408) | `http://stream.cammonitorplus.net/1804/index.m3u8` |
+| NESN | HTTP Error (404) | `http://23.237.104.106:8080/USA_NESN/index.m3u8` |
 | NFL Network | HTTP Error (404) | `http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8` |
 | NFL RedZone | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/2369.ts` |
 | NHL Network | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/2348.ts` |
