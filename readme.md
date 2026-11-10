@@ -1,6 +1,6 @@
-## Base Log @ 2026-11-10 10:13 UTC
+## Base Log @ 2026-11-10 20:57 UTC
 
-### ✅ Working Streams: 36<br>❌ Dead Streams: 125
+### ✅ Working Streams: 37<br>❌ Dead Streams: 124
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -80,7 +80,6 @@
 | MLB Network | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/2342.ts` |
 | MSG | HTTP Error (404) | `http://23.237.104.106:8080/USA_MSG/index.m3u8` |
 | MSNBC | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/406.ts` |
-| MTV | HTTP Timeout (408) | `http://23.237.104.106:8080/USA_MTV/index.m3u8` |
 | Marquee Sports Network | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/150609.ts` |
 | MotorTrend TV | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/272264.ts` |
 | NBA TV | HTTP Error (403) | `http://212.102.60.231/NBA_TV/index.m3u8` |
