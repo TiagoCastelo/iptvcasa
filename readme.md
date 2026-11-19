@@ -1,6 +1,6 @@
-## Base Log @ 2026-11-19 10:36 UTC
+## Base Log @ 2026-11-19 22:22 UTC
 
-### ✅ Working Streams: 27<br>❌ Dead Streams: 134
+### ✅ Working Streams: 24<br>❌ Dead Streams: 137
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -14,9 +14,9 @@
 | Aspire | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/150605.ts` |
 | BBC America | HTTP Error (400) | `https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8` |
 | BET | HTTP Error (404) | `http://212.102.60.231/BET/index.m3u8` |
-| Big Ten Network | HTTP Error (404) | `http://23.237.104.106:8080/USA_BTN/index.m3u8` |
+| Big Ten Network | HTTP Timeout (408) | `http://23.237.104.106:8080/USA_BTN/index.m3u8` |
 | Bloomberg TV | HTTP Error (404) | `https://live-manifest.production-public.tubi.io/live/a5aabf5a-9615-4987-8163-18edfa1360c6/playlist.m3u8` |
-| Boomerang | HTTP Timeout (408) | `http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8` |
+| Boomerang | HTTP Error (404) | `http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8` |
 | Bounce TV | HTTP Error (403) | `http://212.102.60.231/BOUNCE_TV/index.m3u8` |
 | C-SPAN | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/14804.ts` |
 | CBS Sports Golazo Network | HTTP Error (404) | `https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8` |
@@ -30,6 +30,7 @@
 | Cleo TV | HTTP Error (401) | `http://hardcoremedia.xyz/live/rabdsbmz/3731346838/129849.ts` |
 | Comedy Central | HTTP Error (404) | `http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8` |
 | Comedy TV | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/199482.ts` |
+| Cooking Channel | HTTP Error (404) | `http://23.237.104.106:8080/USA_COOKING/index.m3u8` |
 | Cozi TV | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/8392.ts` |
 | Discovery Channel | HTTP Error (404) | `http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8` |
 | Discovery Family Channel | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/2300.ts` |
@@ -58,7 +59,7 @@
 | FX | HTTP Error (404) | `http://23.237.104.106:8080/USA_FX/index.m3u8` |
 | FXX | HTTP Error (404) | `http://23.237.104.106:8080/USA_FXX/index.m3u8` |
 | FYI TV | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/9234.ts` |
-| Food Network | HTTP Error (404) | `http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8` |
+| Food Network | HTTP Timeout (408) | `http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8` |
 | Fox Business | HTTP Error (404) | `http://41.205.93.154/FOXBUSINESS/index.m3u8` |
 | Fox News | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/1611.ts` |
 | Fox Sports 1 | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/756.ts` |
@@ -85,7 +86,7 @@
 | MLB Network | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/2342.ts` |
 | MSG | HTTP Error (404) | `http://23.237.104.106:8080/USA_MSG/index.m3u8` |
 | MSNBC | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/406.ts` |
-| MTV | HTTP Error (404) | `http://23.237.104.106:8080/USA_MTV/index.m3u8` |
+| MTV | HTTP Timeout (408) | `http://23.237.104.106:8080/USA_MTV/index.m3u8` |
 | Marquee Sports Network | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/150609.ts` |
 | MotorTrend TV | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/272264.ts` |
 | NBA TV | HTTP Error (403) | `http://212.102.60.231/NBA_TV/index.m3u8` |
@@ -105,12 +106,13 @@
 | Nicktoons | HTTP Error (403) | `http://212.102.60.231/NICKTOONS/index.m3u8` |
 | Ovation | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/194336.ts` |
 | Oxygen | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/6378.ts` |
+| Paramount Network | HTTP Error (404) | `http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8` |
 | Pop TV | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/305494.ts` |
 | Premier Sports 1 | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/1097.ts` |
 | Premier Sports 2 | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/4723.ts` |
 | QVC | HTTP Error (403) | `http://212.102.60.231/QVC/index.m3u8` |
 | Reelz Channel | HTTP Error (404) | `http://23.237.104.106:8080/USA_REELZ/index.m3u8` |
-| SEC Network | HTTP Error (404) | `http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8` |
+| SEC Network | HTTP Timeout (408) | `http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8` |
 | Showtime Extreme | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/12036.ts` |
 | Showtime | HTTP Error (404) | `http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8` |
 | Sky Sports News | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/304775.ts` |
@@ -127,7 +129,7 @@
 | Sportsnet One | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/3378.ts` |
 | Starz Encore Classic | HTTP Error (404) | `http://212.102.60.231/STARZ_ENCORE_CLASSIC/index.m3u8` |
 | Starz | HTTP Error (404) | `http://23.237.104.106:8080/USA_STARZ/index.m3u8` |
-| Syfy | HTTP Timeout (408) | `http://23.237.104.106:8080/USA_SYFY/index.m3u8` |
+| Syfy | HTTP Error (404) | `http://23.237.104.106:8080/USA_SYFY/index.m3u8` |
 | TLC | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/2362.ts` |
 | TSN1 | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/770.ts` |
 | TSN2 | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/771.ts` |
@@ -137,6 +139,7 @@
 | USA East | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/3390.ts` |
 | Vice TV | HTTP Timeout (408) | `http://23.237.104.106:8080/USA_VICETV/index.m3u8` |
 | Willow Cricket | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/296763.ts` |
+| YES Network | HTTP Timeout (408) | `http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8` |
 | getTV | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/194187.ts` |
 ---
 #### Base Channels URL
