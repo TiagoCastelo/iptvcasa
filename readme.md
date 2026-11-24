@@ -1,4 +1,4 @@
-## Base Log @ 2026-11-24 12:47 UTC
+## Base Log @ 2026-11-24 23:35 UTC
 
 ### ✅ Working Streams: 37<br>❌ Dead Streams: 124
 
@@ -15,7 +15,7 @@
 | BET | HTTP Error (404) | `http://212.102.60.231/BET/index.m3u8` |
 | Bloomberg TV | HTTP Error (404) | `https://live-manifest.production-public.tubi.io/live/a5aabf5a-9615-4987-8163-18edfa1360c6/playlist.m3u8` |
 | Bounce TV | HTTP Error (403) | `http://212.102.60.231/BOUNCE_TV/index.m3u8` |
-| C-SPAN | HTTP Timeout (408) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/14804.ts` |
+| C-SPAN | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/14804.ts` |
 | CBS Sports Golazo Network | HTTP Error (404) | `https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8` |
 | CBS Sports Network | HTTP Error (404) | `http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/267357.ts` |
 | CBS | HTTP Timeout (408) | `http://stream.cammonitorplus.net/1810/index.m3u8` |
